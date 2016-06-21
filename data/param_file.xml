@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PARAM>
+  <QRCODE_OFFSET>50</QRCODE_OFFSET>
+  <QRCODE_FOLDER>C:\Users\reng.tsai\Documents\Processing\PVideoRecord\output\qrcode</QRCODE_FOLDER>
+  <QRCODE_ORDER_FILE>qrorder.txt</QRCODE_ORDER_FILE>
+</PARAM>
